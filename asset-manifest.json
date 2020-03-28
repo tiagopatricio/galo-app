@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tiagopatricio/galo-app/static/css/main.08c6cc07.chunk.css",
-    "main.js": "/tiagopatricio/galo-app/static/js/main.06690917.chunk.js",
-    "main.js.map": "/tiagopatricio/galo-app/static/js/main.06690917.chunk.js.map",
-    "runtime-main.js": "/tiagopatricio/galo-app/static/js/runtime-main.0c8b1ab8.js",
-    "runtime-main.js.map": "/tiagopatricio/galo-app/static/js/runtime-main.0c8b1ab8.js.map",
-    "static/js/2.cba874e5.chunk.js": "/tiagopatricio/galo-app/static/js/2.cba874e5.chunk.js",
-    "static/js/2.cba874e5.chunk.js.map": "/tiagopatricio/galo-app/static/js/2.cba874e5.chunk.js.map",
-    "index.html": "/tiagopatricio/galo-app/index.html",
-    "precache-manifest.23abe81d81e93e0e8905753275d79274.js": "/tiagopatricio/galo-app/precache-manifest.23abe81d81e93e0e8905753275d79274.js",
-    "service-worker.js": "/tiagopatricio/galo-app/service-worker.js",
-    "static/css/main.08c6cc07.chunk.css.map": "/tiagopatricio/galo-app/static/css/main.08c6cc07.chunk.css.map",
-    "static/js/2.cba874e5.chunk.js.LICENSE.txt": "/tiagopatricio/galo-app/static/js/2.cba874e5.chunk.js.LICENSE.txt"
+    "main.css": "/galo-app/static/css/main.08c6cc07.chunk.css",
+    "main.js": "/galo-app/static/js/main.fdfc83ed.chunk.js",
+    "main.js.map": "/galo-app/static/js/main.fdfc83ed.chunk.js.map",
+    "runtime-main.js": "/galo-app/static/js/runtime-main.962e442b.js",
+    "runtime-main.js.map": "/galo-app/static/js/runtime-main.962e442b.js.map",
+    "static/js/2.cba874e5.chunk.js": "/galo-app/static/js/2.cba874e5.chunk.js",
+    "static/js/2.cba874e5.chunk.js.map": "/galo-app/static/js/2.cba874e5.chunk.js.map",
+    "index.html": "/galo-app/index.html",
+    "precache-manifest.f4eb42f9355f6d6d71e9c316954ec308.js": "/galo-app/precache-manifest.f4eb42f9355f6d6d71e9c316954ec308.js",
+    "service-worker.js": "/galo-app/service-worker.js",
+    "static/css/main.08c6cc07.chunk.css.map": "/galo-app/static/css/main.08c6cc07.chunk.css.map",
+    "static/js/2.cba874e5.chunk.js.LICENSE.txt": "/galo-app/static/js/2.cba874e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c8b1ab8.js",
+    "static/js/runtime-main.962e442b.js",
     "static/js/2.cba874e5.chunk.js",
     "static/css/main.08c6cc07.chunk.css",
-    "static/js/main.06690917.chunk.js"
+    "static/js/main.fdfc83ed.chunk.js"
   ]
 }
