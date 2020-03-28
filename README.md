@@ -77,7 +77,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # How to deploy it on Github pages (commited on branch gh-pages)
 
 1- cd galo-app
+
 2- npm install galo-app --save-dev
+
 3- edit package.json:
   Add=> "homepage": "http://tiagopatricio.github.io/galo-app"
   Add to scripts=> 
@@ -86,12 +88,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   }
+  
 4- git init
+
 5- git remote add origin https://github.com/tiagopatricio/galo-app.git
+
 6- npm run deploy
 
 ## To commit code (on master branch)
 
 1- git add .
+
 2- git commit -m "Create a React app and publish it to GitHub Pages"
+
 3- git push origin master
