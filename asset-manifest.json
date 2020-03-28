@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tiagopatricio/galo-app.git/static/css/main.08c6cc07.chunk.css",
+    "main.js": "/tiagopatricio/galo-app.git/static/js/main.f3ebceca.chunk.js",
+    "main.js.map": "/tiagopatricio/galo-app.git/static/js/main.f3ebceca.chunk.js.map",
+    "runtime-main.js": "/tiagopatricio/galo-app.git/static/js/runtime-main.2285a959.js",
+    "runtime-main.js.map": "/tiagopatricio/galo-app.git/static/js/runtime-main.2285a959.js.map",
+    "static/js/2.cba874e5.chunk.js": "/tiagopatricio/galo-app.git/static/js/2.cba874e5.chunk.js",
+    "static/js/2.cba874e5.chunk.js.map": "/tiagopatricio/galo-app.git/static/js/2.cba874e5.chunk.js.map",
+    "index.html": "/tiagopatricio/galo-app.git/index.html",
+    "precache-manifest.50c13853d01724c57b2f8417c64e1ba0.js": "/tiagopatricio/galo-app.git/precache-manifest.50c13853d01724c57b2f8417c64e1ba0.js",
+    "service-worker.js": "/tiagopatricio/galo-app.git/service-worker.js",
+    "static/css/main.08c6cc07.chunk.css.map": "/tiagopatricio/galo-app.git/static/css/main.08c6cc07.chunk.css.map",
+    "static/js/2.cba874e5.chunk.js.LICENSE.txt": "/tiagopatricio/galo-app.git/static/js/2.cba874e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2285a959.js",
+    "static/js/2.cba874e5.chunk.js",
+    "static/css/main.08c6cc07.chunk.css",
+    "static/js/main.f3ebceca.chunk.js"
+  ]
+}
