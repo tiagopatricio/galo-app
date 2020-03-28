@@ -70,8 +70,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # How to create the app
 
 1- create-react-app galo-app
+
 2- cd galo-app
+
 3- npm start
+
 4- npm run build
 
 # How to deploy it on Github pages (commited on branch gh-pages)
