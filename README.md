@@ -81,7 +81,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 1- cd galo-app
 
-2- npm install galo-app --save-dev
+2- npm install gh-pages --save-dev
 
 3- edit package.json:
   Add=> "homepage": "http://tiagopatricio.github.io/galo-app"
